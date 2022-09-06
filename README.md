@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **advanced networks**
 
-- 👨‍💻 All of my projects are available at [..](..)
+- 👨‍💻 All of my projects are available at https://nada-s-portfolio.web.app/
 
 - 💬 Ask me about **basics CCNA and Security**
 
